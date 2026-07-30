@@ -1,0 +1,16 @@
+{
+  "name": "仲間札",
+  "short_name": "仲間札",
+  "description": "活動時間と遊び方からオンラインゲームの仲間募集を探せる公開募集札。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#efe9db",
+  "theme_color": "#efe9db",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
